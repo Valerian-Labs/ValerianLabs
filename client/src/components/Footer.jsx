@@ -14,7 +14,7 @@ export default function Footer() {
           <Link to="/about">About</Link><Link to="/contact">Contact</Link>
         </div>
       </div>
-      <div className="container footer-bottom"><span>© 2024 Valerian Labs. All rights reserved.</span><span><Link to="/privacy">Privacy</Link><Link to="/terms">Terms</Link></span></div>
+      <div className="container footer-bottom"><span>© 2026 Valerian Labs. All rights reserved.</span><span><Link to="/privacy">Privacy</Link><Link to="/terms">Terms</Link></span></div>
     </footer>
   );
 }
